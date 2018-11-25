@@ -1,0 +1,7 @@
+#IDE files
+irControlServer/.idea/
+irControlServer/.idea/workspace.xml
+
+#used node modules
+irControlServer/node_modules/
+
