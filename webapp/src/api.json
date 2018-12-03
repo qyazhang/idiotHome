@@ -1,0 +1,17 @@
+{
+    "api": [
+        {
+            "apiPath": "aircon",
+            "apiList": ["powerOn", "powerOff"]
+        },
+        {
+            "apiPath": "tv",
+            "apiList": ["powerOn", "powerOff"]
+        },
+        {
+            "apiPath": "light",
+            "apiList": ["powerOn", "powerOff", "sixty", "thirty"]
+        }
+    ],
+    "baseUrl": "http://localhost:3000"
+}
